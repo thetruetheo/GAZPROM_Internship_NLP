@@ -33,7 +33,7 @@ for filename in os.listdir(directory):
         writeable_content = []
 
         docx_content = {}
-        print("\nОбработка документа окончена")
+        print("\nОбработка документа окончена\n")
 
 
 
